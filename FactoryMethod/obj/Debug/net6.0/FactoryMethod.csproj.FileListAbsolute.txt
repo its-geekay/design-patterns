@@ -4,7 +4,6 @@ D:\Source\Repos\Design-Patterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.run
 D:\Source\Repos\Design-Patterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
 D:\Source\Repos\Design-Patterns\FactoryMethod\bin\Debug\net6.0\ref\FactoryMethod.dll
 D:\Source\Repos\Design-Patterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
-D:\Source\Repos\Design-Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
 D:\Source\Repos\Design-Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
 D:\Source\Repos\Design-Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
 D:\Source\Repos\Design-Patterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
